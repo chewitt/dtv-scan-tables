@@ -2,7 +2,7 @@
 # Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=557
 
 # Physical channel 17
-[Record Cabrália]
+[Record TV Cabrália]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

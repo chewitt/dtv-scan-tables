@@ -2,7 +2,7 @@
 # Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3276
 
 # Physical channel 18
-[Band SP Interior]
+[Band Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857

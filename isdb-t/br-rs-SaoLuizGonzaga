@@ -2,7 +2,7 @@
 # Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1940
 
 # Physical channel 58
-[TV Fraternidade]
+[TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 737142857

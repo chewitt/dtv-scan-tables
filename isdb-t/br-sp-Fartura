@@ -2,7 +2,7 @@
 # Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=888
 
 # Physical channel 28
-[Record Paulista]
+[Record TV Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857

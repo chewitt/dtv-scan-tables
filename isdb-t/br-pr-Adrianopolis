@@ -2,7 +2,7 @@
 # Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1677
 
 # Physical channel 41
-[RPC]
+[RPC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

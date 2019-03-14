@@ -1,5 +1,5 @@
 # Galaxy 28 @ 89W  C-Band
-# 
+#
 # freq pol sr fec
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBS2

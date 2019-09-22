@@ -1,6 +1,15 @@
 # Channel table for ChinaSat 10 at 110.5°E
 # Source: http://www.lyngsat.com/ChinaSat-10.html
 
+[Point of Sale Media Network]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 3449000
+	POLARIZATION = HORIZONTAL
+	SYMBOL_RATE = 1665000
+	MODULATION = QPSK
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+
 [Skynindo]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 3520000

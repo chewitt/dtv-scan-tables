@@ -28,7 +28,7 @@
 	INNER_FEC = AUTO
 	INVERSION = AUTO
 
-[Yunnan International Channel]
+[Yunnan Lancang-Mekong International Channel]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 3774000
 	POLARIZATION = HORIZONTAL

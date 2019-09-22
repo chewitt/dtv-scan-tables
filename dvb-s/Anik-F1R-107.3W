@@ -10,7 +10,7 @@
 	INNER_FEC = AUTO
 	INVERSION = AUTO
 
-[Legislative Assembly TV Network Northwest Territories]
+[Legislative Assembly of the Northwest Territories]
 	DELIVERY_SYSTEM = DVBS
 	FREQUENCY = 3807000
 	POLARIZATION = VERTICAL

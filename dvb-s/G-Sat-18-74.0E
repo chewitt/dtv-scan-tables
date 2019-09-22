@@ -1,6 +1,15 @@
 # Channel table for G-Sat 18 at 74.0°E
 # Source: http://www.lyngsat.com/G-Sat-18.html
 
+[Doordarshan]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 3777000
+	POLARIZATION = HORIZONTAL
+	SYMBOL_RATE = 4000000
+	MODULATION = PSK/8
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+
 [Punjab Edusat Society]
 	DELIVERY_SYSTEM = DVBS
 	FREQUENCY = 11587000

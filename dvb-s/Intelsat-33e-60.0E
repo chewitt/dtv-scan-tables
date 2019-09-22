@@ -1,6 +1,14 @@
 # Channel table for Intelsat 33e at 60.0°E
 # Source: http://www.lyngsat.com/Intelsat-33e.html
 
+[RTA]
+	DELIVERY_SYSTEM = DVBS
+	FREQUENCY = 3724000
+	POLARIZATION = RIGHT
+	SYMBOL_RATE = 1600000
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+
 [Channels TV]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 3735000

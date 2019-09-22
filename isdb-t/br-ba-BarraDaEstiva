@@ -1,7 +1,7 @@
-# Channel table for Barra da Estiva - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1371
+# Channel table for Barra Da Estiva - BA - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1371
 
-# Physical channel 28
+# Physical channel 28 (virtual 2.1)
 [TV Sudoeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

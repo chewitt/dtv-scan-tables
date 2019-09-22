@@ -1,7 +1,7 @@
 # Channel table for Alexânia - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2494
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2494
 
-# Physical channel 30
+# Physical channel 30 (virtual 35.1)
 [TV Anhanguera Anápolis]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

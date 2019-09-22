@@ -1,7 +1,7 @@
 # Channel table for Itacoatiara - AM - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=332
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/332
 
-# Physical channel 16
+# Physical channel 16 (virtual 11.1)
 [TV Itacoatiara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22
+# Physical channel 22 (virtual 13.1)
 [Band Amazonas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38
+# Physical channel 38 (virtual 8.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

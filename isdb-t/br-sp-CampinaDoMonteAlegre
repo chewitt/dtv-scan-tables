@@ -1,7 +1,7 @@
-# Channel table for Campina do Monte Alegre - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3715
+# Channel table for Campina Do Monte Alegre - SP - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3715
 
-# Physical channel 26
+# Physical channel 26 (virtual 26.1)
 [TV Tem Itapetininga]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

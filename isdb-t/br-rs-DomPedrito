@@ -1,7 +1,7 @@
 # Channel table for Dom Pedrito - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2094
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2094
 
-# Physical channel 17
+# Physical channel 17 (virtual 18.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35
+# Physical channel 35 (virtual 12.1)
 [RBS Bagé]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

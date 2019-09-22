@@ -1,7 +1,7 @@
 # Channel table for Orobó - PE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3307
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3307
 
-# Physical channel 36
+# Physical channel 36 (virtual 13.1)
 [Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

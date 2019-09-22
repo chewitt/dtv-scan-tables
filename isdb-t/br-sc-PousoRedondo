@@ -1,8 +1,8 @@
 # Channel table for Pouso Redondo - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1827
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1827
 
-# Physical channel 23
-[SBT SC]
+# Physical channel 23 (virtual 54.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

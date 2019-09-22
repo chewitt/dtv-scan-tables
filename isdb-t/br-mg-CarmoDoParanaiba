@@ -1,7 +1,7 @@
-# Channel table for Carmo do Paranaíba - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1156
+# Channel table for Carmo Do Paranaíba - MG - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1156
 
-# Physical channel 42
+# Physical channel 42 (virtual 15.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

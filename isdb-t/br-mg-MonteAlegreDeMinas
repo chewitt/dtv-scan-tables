@@ -1,7 +1,7 @@
-# Channel table for Monte Alegre de Minas - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2143
+# Channel table for Monte Alegre De Minas - MG - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2143
 
-# Physical channel 31
+# Physical channel 31 (virtual 6.1)
 [TV Integração Ituiutaba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

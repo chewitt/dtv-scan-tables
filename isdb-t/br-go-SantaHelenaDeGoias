@@ -1,7 +1,7 @@
-# Channel table for Santa Helena de Goiás - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2699
+# Channel table for Santa Helena De Goiás - GO - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2699
 
-# Physical channel 20
+# Physical channel 20 (virtual 47.1)
 [TV Serra Dourada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22
+# Physical channel 22 (virtual 23.1)
 [TV Sucesso]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25
+# Physical channel 25 (virtual 25.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30
+# Physical channel 30 (virtual 12.1)
 [TV Anhanguera Rio Verde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36
-[TV Brasil Central, RBC FM, Rádio Brasil Central]
+# Physical channel 36 (virtual 35.1)
+[TV Brasil Central]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

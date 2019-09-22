@@ -1,7 +1,7 @@
 # Channel table for Feliz - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1979
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1979
 
-# Physical channel 25
+# Physical channel 25 (virtual 17.1)
 [RBS TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Domingos Martins - ES - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3292
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3292
 
-# Physical channel 22
+# Physical channel 22 (virtual 4.1)
 [TV Gazeta Vitória]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

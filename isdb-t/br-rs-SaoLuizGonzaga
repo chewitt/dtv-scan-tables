@@ -1,7 +1,7 @@
 # Channel table for São Luiz Gonzaga - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1940
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1940
 
-# Physical channel 58
+# Physical channel 58 (virtual 58.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

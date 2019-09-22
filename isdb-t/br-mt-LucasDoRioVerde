@@ -1,7 +1,7 @@
-# Channel table for Lucas do Rio Verde - MT - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=490
+# Channel table for Lucas Do Rio Verde - MT - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/490
 
-# Physical channel 31
+# Physical channel 31 (virtual 11.1)
 [TV Centro América]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38
+# Physical channel 38 (virtual 5.1)
 [TV Conquista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

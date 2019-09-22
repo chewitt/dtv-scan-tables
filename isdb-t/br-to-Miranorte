@@ -1,7 +1,7 @@
 # Channel table for Miranorte - TO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2897
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2897
 
-# Physical channel 23
+# Physical channel 23 (virtual 11.1)
 [TV Anhanguera Palmas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

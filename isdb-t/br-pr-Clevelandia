@@ -1,7 +1,7 @@
 # Channel table for Clevelândia - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1683
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1683
 
-# Physical channel 20
+# Physical channel 20 (virtual 39.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

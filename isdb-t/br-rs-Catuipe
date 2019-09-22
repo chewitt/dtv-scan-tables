@@ -1,7 +1,7 @@
 # Channel table for Catuípe - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2115
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2115
 
-# Physical channel 17
+# Physical channel 17 (virtual 16.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23
+# Physical channel 23 (virtual 4.1)
 [RBS Santa Rosa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35
+# Physical channel 35 (virtual 12.1)
 [RBS Cruz Alta]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

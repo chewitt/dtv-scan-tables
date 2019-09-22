@@ -1,7 +1,7 @@
-# Channel table for Boca da Mata - AL - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2246
+# Channel table for Boca Da Mata - AL - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2246
 
-# Physical channel 19
+# Physical channel 19 (virtual 5.1)
 [TV Ponta Verde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21
+# Physical channel 21 (virtual 7.1)
 [TV Gazeta AL]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41
+# Physical channel 41 (virtual 13.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 43
+# Physical channel 43 (virtual 11.1)
 [TV Pajuçara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,8 +1,8 @@
 # Channel table for Reserva - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3275
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3275
 
-# Physical channel 20
-[Rede Mercosul]
+# Physical channel 20 (virtual 20.2)
+[Rede Mundial]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

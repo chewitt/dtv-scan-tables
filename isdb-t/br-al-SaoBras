@@ -1,7 +1,7 @@
 # Channel table for São Brás - AL - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2259
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2259
 
-# Physical channel 43
+# Physical channel 43 (virtual 9.1)
 [TV Pajuçara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Umbaúba - SE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=911
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/911
 
-# Physical channel 34
+# Physical channel 34 (virtual 43.1)
 [TV Sergipe]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

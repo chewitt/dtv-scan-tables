@@ -1,7 +1,7 @@
 # Channel table for Mafra - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=32
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/32
 
-# Physical channel 24
+# Physical channel 24 (virtual 57.1)
 [NSC Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28
+# Physical channel 28 (virtual 55.1)
 [RICTV Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

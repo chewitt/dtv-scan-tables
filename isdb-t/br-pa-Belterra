@@ -1,7 +1,7 @@
 # Channel table for Belterra - PA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=630
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/630
 
-# Physical channel 18
+# Physical channel 18 (virtual 17.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22
+# Physical channel 22 (virtual 4.1)
 [TV Tapajós]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36
+# Physical channel 36 (virtual 12.1)
 [RBA TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

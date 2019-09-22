@@ -1,7 +1,7 @@
 # Channel table for Vassouras - RJ - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1419
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1419
 
-# Physical channel 23
+# Physical channel 23 (virtual 49.1)
 [SBT Interior/RJ]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28
+# Physical channel 28 (virtual 7.1)
 [TV Rio Sul]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38
+# Physical channel 38 (virtual 13.1)
 [Record TV Rio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 44
+# Physical channel 44 (virtual 44.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

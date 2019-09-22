@@ -1,7 +1,7 @@
 # Channel table for Sertão - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1924
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1924
 
-# Physical channel 34
+# Physical channel 34 (virtual 7.1)
 [RBS Passo Fundo]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

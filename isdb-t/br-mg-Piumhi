@@ -1,8 +1,8 @@
 # Channel table for Piumhi - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=680
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/680
 
-# Physical channel 34
-[TV Alterosa]
+# Physical channel 34 (virtual 56.1)
+[TV Alterosa Divinópolis]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

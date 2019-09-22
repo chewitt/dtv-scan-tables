@@ -1,7 +1,7 @@
 # Channel table for Araci - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=788
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/788
 
-# Physical channel 29
+# Physical channel 29 (virtual 3.1)
 [TV Subaé]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

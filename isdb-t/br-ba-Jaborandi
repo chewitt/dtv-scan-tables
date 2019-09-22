@@ -1,7 +1,7 @@
 # Channel table for Jaborandi - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3171
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3171
 
-# Physical channel 28
+# Physical channel 28 (virtual 27.1)
 [Record TV Cabrália]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

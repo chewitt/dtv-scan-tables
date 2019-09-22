@@ -1,7 +1,7 @@
-# Channel table for Palmeira das Missões - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2169
+# Channel table for Palmeira Das Missões - RS - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2169
 
-# Physical channel 28
+# Physical channel 28 (virtual 27.1)
 [SBT RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

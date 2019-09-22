@@ -1,7 +1,7 @@
 # Channel table for Capim - PB - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2639
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2639
 
-# Physical channel 19
+# Physical channel 19 (virtual 7.1)
 [TV Cabo Branco]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

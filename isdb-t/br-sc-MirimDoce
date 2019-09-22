@@ -1,8 +1,8 @@
 # Channel table for Mirim Doce - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1833
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1833
 
-# Physical channel 23
-[SBT SC]
+# Physical channel 23 (virtual 54.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

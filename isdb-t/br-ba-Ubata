@@ -1,7 +1,7 @@
 # Channel table for Ubatã - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1549
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1549
 
-# Physical channel 21
+# Physical channel 21 (virtual 13.1)
 [Record TV Cabrália]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

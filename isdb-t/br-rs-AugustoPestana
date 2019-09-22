@@ -1,7 +1,7 @@
 # Channel table for Augusto Pestana - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3327
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3327
 
-# Physical channel 35
+# Physical channel 35 (virtual 12.1)
 [RBS Cruz Alta]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

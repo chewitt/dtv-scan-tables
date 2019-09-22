@@ -1,7 +1,7 @@
 # Channel table for Inhaúma - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3623
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3623
 
-# Physical channel 15
+# Physical channel 15 (virtual 41.1)
 [Record TV Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

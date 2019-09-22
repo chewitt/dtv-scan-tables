@@ -1,7 +1,7 @@
-# Channel table for Águas Lindas de Goiás - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=739
+# Channel table for Águas Lindas De Goiás - GO - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/739
 
-# Physical channel 16
+# Physical channel 16 (virtual 22.1)
 [TV Anhanguera Luziânia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 17
+# Physical channel 17 (virtual 29.1)
 [TV Goiânia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20
+# Physical channel 20 (virtual 10.1)
 [Globo Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23
+# Physical channel 23 (virtual 8.1)
 [Record TV Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -117,7 +117,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26
+# Physical channel 26 (virtual 4.1)
 [Band Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -146,7 +146,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 27
+# Physical channel 27 (virtual 12.1)
 [SBT Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -175,7 +175,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28
+# Physical channel 28 (virtual 6.1)
 [TV Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -204,7 +204,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32
+# Physical channel 32 (virtual 15.1)
 [Fonte TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -233,7 +233,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33
+# Physical channel 33 (virtual 33.1)
 [TV Aparecida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -262,8 +262,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38
-[TV Cultura, Univesp, Multicultura Educação]
+# Physical channel 38 (virtual 54.3)
+[TV Cultura, Univesp, Multicultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -291,7 +291,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 43
+# Physical channel 43 (virtual 43.1)
 [Rede Gospel]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

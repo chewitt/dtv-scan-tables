@@ -1,7 +1,7 @@
 # Channel table for Niquelândia - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2694
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2694
 
-# Physical channel 27
+# Physical channel 27 (virtual 24.1)
 [TV Serra Dourada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

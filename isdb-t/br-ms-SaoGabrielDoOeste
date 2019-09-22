@@ -1,7 +1,7 @@
-# Channel table for São Gabriel do Oeste - MS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2582
+# Channel table for São Gabriel Do Oeste - MS - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2582
 
-# Physical channel 30
+# Physical channel 30 (virtual 10.1)
 [TV Morena]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

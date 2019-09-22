@@ -1,7 +1,7 @@
 # Channel table for Arinos - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3240
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3240
 
-# Physical channel 20
+# Physical channel 20 (virtual 12.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

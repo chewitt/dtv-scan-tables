@@ -1,7 +1,7 @@
 # Channel table for Santa Vitória - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=569
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/569
 
-# Physical channel 28
+# Physical channel 28 (virtual 4.1)
 [TV Paranaíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

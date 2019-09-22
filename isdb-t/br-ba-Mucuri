@@ -1,7 +1,7 @@
 # Channel table for Mucuri - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=733
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/733
 
-# Physical channel 27
+# Physical channel 27 (virtual 11.1)
 [TV Santa Cruz]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

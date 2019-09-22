@@ -1,7 +1,7 @@
 # Channel table for Corupá - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2026
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2026
 
-# Physical channel 42
+# Physical channel 42 (virtual 12.1)
 [NSC Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

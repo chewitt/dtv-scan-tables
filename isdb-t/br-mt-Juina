@@ -1,7 +1,7 @@
 # Channel table for Juína - MT - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=237
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/237
 
-# Physical channel 16
+# Physical channel 16 (virtual 5.1)
 [TV Nazaré]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36
+# Physical channel 36 (virtual 3.1)
 [TV Centro América]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 40
-[Band Mato Grosso]
+# Physical channel 40 (virtual 10.1)
+[TV Cidade Verde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857

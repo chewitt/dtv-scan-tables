@@ -1,7 +1,7 @@
 # Channel table for Ribeirão Corrente - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2797
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2797
 
-# Physical channel 18
+# Physical channel 18 (virtual 17.1)
 [TV Clube Ribeirão Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24
+# Physical channel 24 (virtual 5.1)
 [SBT Ribeirão Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 42
+# Physical channel 42 (virtual 7.1)
 [EPTV Ribeirão]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

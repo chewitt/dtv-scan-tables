@@ -1,7 +1,7 @@
 # Channel table for Alfredo Chaves - ES - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1409
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1409
 
-# Physical channel 22
+# Physical channel 22 (virtual 4.1)
 [TV Gazeta Vitória]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32
+# Physical channel 32 (virtual 9.1)
 [TV Guarapari]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,8 +1,8 @@
-# Channel table for Alvorada do Sul - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1615
+# Channel table for Alvorada Do Sul - PR - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1615
 
-# Physical channel 16
-[Rede Mercosul]
+# Physical channel 16 (virtual 22.2)
+[Rede Mundial]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

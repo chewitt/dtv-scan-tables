@@ -1,7 +1,7 @@
 # Channel table for Uauá - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3206
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3206
 
-# Physical channel 27
+# Physical channel 27 (virtual 7.1)
 [TV São Francisco]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

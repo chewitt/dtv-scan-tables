@@ -1,7 +1,7 @@
-# Channel table for Barra de São Francisco - ES - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2135
+# Channel table for Barra De São Francisco - ES - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2135
 
-# Physical channel 22
+# Physical channel 22 (virtual 24.1)
 [TV Gazeta Noroeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

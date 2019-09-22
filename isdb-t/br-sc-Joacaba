@@ -1,7 +1,7 @@
 # Channel table for Joaçaba - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=476
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/476
 
-# Physical channel 16
+# Physical channel 16 (virtual 17.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30
+# Physical channel 30 (virtual 26.1)
 [RICTV Xanxerê]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34
+# Physical channel 34 (virtual 6.1)
 [NSC Centro-Oeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 46
-[SBT SC]
+# Physical channel 46 (virtual 11.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

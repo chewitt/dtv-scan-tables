@@ -1,8 +1,8 @@
 # Channel table for Panambi - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2173
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2173
 
-# Physical channel 50
-[TV Pampa]
+# Physical channel 50 (virtual 54.1)
+[TV Pampa Norte]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

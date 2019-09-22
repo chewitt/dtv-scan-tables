@@ -1,7 +1,7 @@
 # Channel table for Presidente Médici - RO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=464
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/464
 
-# Physical channel 46
+# Physical channel 46 (virtual 13.1)
 [TV Allamanda]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

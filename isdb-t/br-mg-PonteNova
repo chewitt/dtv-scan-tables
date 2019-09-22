@@ -1,7 +1,7 @@
 # Channel table for Ponte Nova - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=135
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/135
 
-# Physical channel 33
+# Physical channel 33 (virtual 3.1)
 [Globo Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

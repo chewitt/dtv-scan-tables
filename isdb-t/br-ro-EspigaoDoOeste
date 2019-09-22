@@ -1,8 +1,8 @@
-# Channel table for Espigão do Oeste - RO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=224
+# Channel table for Espigão Do Oeste - RO - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/224
 
-# Physical channel 21
-[Rede Amazonica Cacoal]
+# Physical channel 21 (virtual 5.1)
+[Rede Amazônica Cacoal]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

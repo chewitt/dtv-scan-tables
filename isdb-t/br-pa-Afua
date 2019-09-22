@@ -1,7 +1,7 @@
 # Channel table for Afuá - PA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=466
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/466
 
-# Physical channel 39
+# Physical channel 39 (virtual 40.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,8 +1,8 @@
 # Channel table for Manoel Ribas - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1612
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1612
 
-# Physical channel 22
-[Rede Mercosul]
+# Physical channel 22 (virtual 22.2)
+[Rede Mundial]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857

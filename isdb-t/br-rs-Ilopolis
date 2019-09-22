@@ -1,7 +1,7 @@
 # Channel table for Ilópolis - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2055
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2055
 
-# Physical channel 16
+# Physical channel 16 (virtual 21.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

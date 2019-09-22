@@ -1,7 +1,7 @@
-# Channel table for São Bento do Una - PE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3714
+# Channel table for São Bento Do Una - PE - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3714
 
-# Physical channel 20
+# Physical channel 20 (virtual 20.1)
 [TV Asa Branca]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

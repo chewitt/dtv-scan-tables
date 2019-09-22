@@ -1,7 +1,7 @@
 # Channel table for Amargosa - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1345
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1345
 
-# Physical channel 15
+# Physical channel 15 (virtual 14.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

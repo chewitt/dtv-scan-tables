@@ -1,7 +1,7 @@
 # Channel table for Uruguaiana - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=902
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/902
 
-# Physical channel 17
+# Physical channel 17 (virtual 16.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22
+# Physical channel 22 (virtual 2.1)
 [Record TV RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34
+# Physical channel 34 (virtual 13.1)
 [RBS Uruguaiana]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

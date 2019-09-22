@@ -1,7 +1,7 @@
 # Channel table for Braúna - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3383
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3383
 
-# Physical channel 26
+# Physical channel 26 (virtual 26.1)
 [TV Tem Rio Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

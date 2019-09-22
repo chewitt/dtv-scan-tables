@@ -1,7 +1,7 @@
 # Channel table for Cuitegi - PB - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3115
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3115
 
-# Physical channel 20
+# Physical channel 20 (virtual 10.1)
 [TV Cabo Branco]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

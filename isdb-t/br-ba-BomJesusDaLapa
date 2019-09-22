@@ -1,7 +1,7 @@
-# Channel table for Bom Jesus da Lapa - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1373
+# Channel table for Bom Jesus Da Lapa - BA - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1373
 
-# Physical channel 15
+# Physical channel 15 (virtual 14.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21
+# Physical channel 21 (virtual 11.1)
 [Record TV Itapoan]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 29
+# Physical channel 29 (virtual 9.1)
 [TV Oeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

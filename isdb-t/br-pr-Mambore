@@ -1,7 +1,7 @@
 # Channel table for Mamborê - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1675
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1675
 
-# Physical channel 38
+# Physical channel 38 (virtual 7.1)
 [TV Tarobá Cascavel]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
-# Channel table for Afogados da Ingazeira - PE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2382
+# Channel table for Afogados Da Ingazeira - PE - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2382
 
-# Physical channel 16
+# Physical channel 16 (virtual 17.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

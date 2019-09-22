@@ -1,7 +1,7 @@
 # Channel table for Itapetinga - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=743
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/743
 
-# Physical channel 21
+# Physical channel 21 (virtual 2.1)
 [Record TV Cabrália]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 27
+# Physical channel 27 (virtual 11.1)
 [TV Sudoeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

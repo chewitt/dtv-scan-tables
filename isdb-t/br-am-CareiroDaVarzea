@@ -1,7 +1,7 @@
-# Channel table for Careiro da Várzea - AM - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2447
+# Channel table for Careiro Da Várzea - AM - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2447
 
-# Physical channel 15
+# Physical channel 15 (virtual 5.1)
 [TV Amazonas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 17
+# Physical channel 17 (virtual 4.1)
 [TV A Crítica]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22
+# Physical channel 22 (virtual 13.1)
 [Band Amazonas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30
+# Physical channel 30 (virtual 8.1)
 [Boas Novas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -117,7 +117,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34
+# Physical channel 34 (virtual 10.1)
 [TV em Tempo]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35
-[TV Diário]
+# Physical channel 35 (virtual 36.1)
+[Record TV Manaus]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -175,7 +175,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 39
+# Physical channel 39 (virtual 40.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -204,7 +204,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 50
+# Physical channel 50 (virtual 50.1)
 [Local TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

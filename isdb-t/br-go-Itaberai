@@ -1,7 +1,7 @@
 # Channel table for Itaberaí - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2662
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2662
 
-# Physical channel 22
+# Physical channel 22 (virtual 42.1)
 [Record TV Goiás]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

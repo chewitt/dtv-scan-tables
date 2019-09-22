@@ -1,7 +1,7 @@
 # Channel table for Cássia - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1449
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1449
 
-# Physical channel 39
+# Physical channel 39 (virtual 34.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Ouro Fino - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=849
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/849
 
-# Physical channel 15
+# Physical channel 15 (virtual 11.1)
 [TV Ouro Fino]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41
+# Physical channel 41 (virtual 42.1)
 [EPTV Sul de Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

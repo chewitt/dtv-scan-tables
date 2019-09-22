@@ -1,7 +1,7 @@
 # Channel table for Sacramento - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=877
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/877
 
-# Physical channel 28
+# Physical channel 28 (virtual 9.1)
 [TV Paranaíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30
+# Physical channel 30 (virtual 2.1)
 [TV Integração Uberaba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

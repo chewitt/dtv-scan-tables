@@ -1,7 +1,7 @@
 # Channel table for Conde - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1278
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1278
 
-# Physical channel 21
+# Physical channel 21 (virtual 12.1)
 [Record TV Itapoan]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 29
+# Physical channel 29 (virtual 8.1)
 [TV Bahia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Telha - SE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2309
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2309
 
-# Physical channel 41
+# Physical channel 41 (virtual 7.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

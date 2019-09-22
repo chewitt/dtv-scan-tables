@@ -1,7 +1,7 @@
-# Channel table for Brejo dos Santos - PB - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2806
+# Channel table for Brejo Dos Santos - PB - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2806
 
-# Physical channel 20
+# Physical channel 20 (virtual 3.1)
 [TV Paraíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

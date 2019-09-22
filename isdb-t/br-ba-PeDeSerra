@@ -1,7 +1,7 @@
-# Channel table for Pé de Serra - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1494
+# Channel table for Pé De Serra - BA - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1494
 
-# Physical channel 22
+# Physical channel 22 (virtual 10.1)
 [Record TV Itapoan]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

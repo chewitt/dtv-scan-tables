@@ -1,7 +1,7 @@
 # Channel table for Presidente Kennedy - ES - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3639
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3639
 
-# Physical channel 21
+# Physical channel 21 (virtual 10.1)
 [TV Gazeta Sul]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

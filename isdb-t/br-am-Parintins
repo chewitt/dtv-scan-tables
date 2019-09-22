@@ -1,7 +1,7 @@
 # Channel table for Parintins - AM - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=122
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/122
 
-# Physical channel 15
+# Physical channel 15 (virtual 7.1)
 [TV Parintins]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25
+# Physical channel 25 (virtual 12.1)
 [TV A Crí­tica Parintins]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36
+# Physical channel 36 (virtual 43.1)
 [Band Amazonas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 39
+# Physical channel 39 (virtual 4.1)
 [TV Alvorada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -117,7 +117,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41
+# Physical channel 41 (virtual 41.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

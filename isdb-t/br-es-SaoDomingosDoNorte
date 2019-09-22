@@ -1,7 +1,7 @@
-# Channel table for São Domingos do Norte - ES - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3424
+# Channel table for São Domingos Do Norte - ES - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3424
 
-# Physical channel 21
+# Physical channel 21 (virtual 9.1)
 [TV Gazeta Noroeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

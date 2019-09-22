@@ -1,7 +1,7 @@
 # Channel table for Aragominas - TO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2514
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2514
 
-# Physical channel 24
+# Physical channel 24 (virtual 11.1)
 [TV Anhanguera Araguaína]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

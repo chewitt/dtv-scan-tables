@@ -1,7 +1,7 @@
 # Channel table for Buíque - PE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2389
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2389
 
-# Physical channel 19
+# Physical channel 19 (virtual 18.1)
 [TV Asa Branca]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

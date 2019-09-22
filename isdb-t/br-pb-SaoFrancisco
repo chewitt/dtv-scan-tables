@@ -1,7 +1,7 @@
 # Channel table for São Francisco - PB - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2643
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2643
 
-# Physical channel 21
+# Physical channel 21 (virtual 9.1)
 [TV Paraíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

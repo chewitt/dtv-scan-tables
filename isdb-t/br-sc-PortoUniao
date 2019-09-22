@@ -1,7 +1,7 @@
 # Channel table for Porto União - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=323
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/323
 
-# Physical channel 31
+# Physical channel 31 (virtual 21.1)
 [RPC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

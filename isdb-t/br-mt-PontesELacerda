@@ -1,7 +1,7 @@
-# Channel table for Pontes e Lacerda - MT - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=83
+# Channel table for Pontes E Lacerda - MT - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/83
 
-# Physical channel 40
+# Physical channel 40 (virtual 6.1)
 [TV Centro Oeste/PL]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

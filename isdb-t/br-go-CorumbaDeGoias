@@ -1,7 +1,7 @@
-# Channel table for Corumbá de Goiás - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3712
+# Channel table for Corumbá De Goiás - GO - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3712
 
-# Physical channel 27
+# Physical channel 27 (virtual 59.1)
 [TV Serra Dourada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

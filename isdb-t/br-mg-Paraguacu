@@ -1,7 +1,7 @@
 # Channel table for Paraguaçu - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=398
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/398
 
-# Physical channel 51
+# Physical channel 51 (virtual 17.1)
 [TV Objetiva]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

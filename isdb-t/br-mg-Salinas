@@ -1,7 +1,7 @@
 # Channel table for Salinas - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=251
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/251
 
-# Physical channel 21
+# Physical channel 21 (virtual 4.1)
 [InterTV Grande Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

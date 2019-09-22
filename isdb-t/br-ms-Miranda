@@ -1,7 +1,7 @@
 # Channel table for Miranda - MS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=593
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/593
 
-# Physical channel 31
+# Physical channel 31 (virtual 5.1)
 [TV Morena]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

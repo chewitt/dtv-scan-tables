@@ -1,7 +1,7 @@
 # Channel table for Campo Verde - MT - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2867
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2867
 
-# Physical channel 51
+# Physical channel 51 (virtual 7.1)
 [TV Real]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

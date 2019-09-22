@@ -1,7 +1,7 @@
 # Channel table for Antas - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1247
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1247
 
-# Physical channel 27
+# Physical channel 27 (virtual 7.1)
 [Record TV Itapoan]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Sapezal - MT - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2555
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2555
 
-# Physical channel 31
+# Physical channel 31 (virtual 9.1)
 [TV Centro América]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

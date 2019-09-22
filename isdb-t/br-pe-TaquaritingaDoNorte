@@ -1,7 +1,7 @@
-# Channel table for Taquaritinga do Norte - PE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2377
+# Channel table for Taquaritinga Do Norte - PE - Brazil
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2377
 
-# Physical channel 18
+# Physical channel 18 (virtual 18.1)
 [TV Asa Branca]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

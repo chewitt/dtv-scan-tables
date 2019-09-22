@@ -1,7 +1,7 @@
 # Channel table for Carazinho - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=62
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/62
 
-# Physical channel 20
+# Physical channel 20 (virtual 15.1)
 [Record TV RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 29
+# Physical channel 29 (virtual 32.1)
 [SBT RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33
+# Physical channel 33 (virtual 6.1)
 [RBS Passo Fundo]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

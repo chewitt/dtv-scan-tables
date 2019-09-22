@@ -1,7 +1,7 @@
 # Channel table for Central - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1288
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1288
 
-# Physical channel 22
+# Physical channel 22 (virtual 7.1)
 [Record TV Itapoan]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Ipiaçu - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2142
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2142
 
-# Physical channel 27
+# Physical channel 27 (virtual 35.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Cáceres - MT - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=172
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/172
 
-# Physical channel 15
+# Physical channel 15 (virtual 20.1)
 [TV Aparecida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 18
+# Physical channel 18 (virtual 17.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36
+# Physical channel 36 (virtual 12.1)
 [TV Centro América]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

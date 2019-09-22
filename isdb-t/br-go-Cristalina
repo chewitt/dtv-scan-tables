@@ -1,7 +1,7 @@
 # Channel table for Cristalina - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=413
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/413
 
-# Physical channel 16
+# Physical channel 16 (virtual 22.1)
 [TV Anhanguera Luziânia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20
+# Physical channel 20 (virtual 20.1)
 [TV Serra Dourada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22
+# Physical channel 22 (virtual 8.1)
 [Record TV Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30
+# Physical channel 30 (virtual 9.1)
 [TV Anhanguera Luziânia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

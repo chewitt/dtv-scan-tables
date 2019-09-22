@@ -1,7 +1,7 @@
 # Channel table for Massaranduba - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2037
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2037
 
-# Physical channel 42
+# Physical channel 42 (virtual 12.1)
 [NSC Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 44
+# Physical channel 44 (virtual 7.1)
 [RICTV Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 45
-[SBT SC]
+# Physical channel 45 (virtual 4.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857

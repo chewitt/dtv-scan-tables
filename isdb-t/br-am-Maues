@@ -1,7 +1,7 @@
 # Channel table for Maués - AM - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=190
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/190
 
-# Physical channel 39
+# Physical channel 39 (virtual 5.1)
 [TV Mundurucânia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

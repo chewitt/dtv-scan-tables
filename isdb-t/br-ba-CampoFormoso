@@ -1,7 +1,7 @@
 # Channel table for Campo Formoso - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1280
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1280
 
-# Physical channel 30
+# Physical channel 30 (virtual 2.1)
 [TV São Francisco]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

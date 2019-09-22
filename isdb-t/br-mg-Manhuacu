@@ -1,7 +1,7 @@
 # Channel table for Manhuaçu - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=315
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/315
 
-# Physical channel 33
+# Physical channel 33 (virtual 22.1)
 [Globo Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38
-[TV Alterosa]
+# Physical channel 38 (virtual 27.2)
+[TV Alterosa Leste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49
+# Physical channel 49 (virtual 9.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

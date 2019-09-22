@@ -1,7 +1,7 @@
 # Channel table for Cansanção - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1283
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1283
 
-# Physical channel 28
+# Physical channel 28 (virtual 5.1)
 [TV São Francisco]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

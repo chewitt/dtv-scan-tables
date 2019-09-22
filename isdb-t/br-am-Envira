@@ -1,7 +1,7 @@
 # Channel table for Envira - AM - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2433
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2433
 
-# Physical channel 22
+# Physical channel 22 (virtual 12.1)
 [Band Amazonas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Jaguaruna - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2206
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2206
 
-# Physical channel 20
+# Physical channel 20 (virtual 24.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33
+# Physical channel 33 (virtual 11.1)
 [NSC Criciúma]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34
+# Physical channel 34 (virtual 9.1)
 [NSC Criciúma]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

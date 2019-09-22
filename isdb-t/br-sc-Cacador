@@ -1,7 +1,7 @@
 # Channel table for Caçador - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=765
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/765
 
-# Physical channel 16
+# Physical channel 16 (virtual 17.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33
+# Physical channel 33 (virtual 9.1)
 [NSC Centro-Oeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 40
-[SBT SC]
+# Physical channel 40 (virtual 7.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857

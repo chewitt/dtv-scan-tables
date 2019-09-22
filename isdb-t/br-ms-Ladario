@@ -1,7 +1,7 @@
 # Channel table for Ladário - MS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1154
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1154
 
-# Physical channel 31
+# Physical channel 31 (virtual 5.1)
 [TV Morena Corumbá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Cícero Dantas - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1290
+# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1290
 
-# Physical channel 20
+# Physical channel 20 (virtual 3.1)
 [Record TV Itapoan]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
 # Channel table for Hotbird 13E at 13.0°E
 # Source: http://www.lyngsat.com/Hotbird-13E.html
 
-[channel 10727000]
+[various]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 10727000
 	POLARIZATION = HORIZONTAL

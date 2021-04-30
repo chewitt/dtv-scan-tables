@@ -1,7 +1,7 @@
 # Channel table for NSS 5 at 50.5°E
 # Source: http://www.lyngsat.com/NSS-5.html
 
-[channel 4172000]
+[various]
 	DELIVERY_SYSTEM = DVBS
 	FREQUENCY = 4172000
 	POLARIZATION = RIGHT

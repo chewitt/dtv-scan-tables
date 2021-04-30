@@ -1,8 +1,8 @@
 # Channel table for Tapejara - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/4006
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4006
 
-# Physical channel 23 (virtual 11.1)
-[Rede Massa Tibagi]
+# Physical channel 23 (virtual 11.2)
+[Rede Massa Tibagi, TV Escola Curitiba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

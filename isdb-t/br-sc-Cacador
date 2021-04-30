@@ -1,8 +1,8 @@
-# Channel table for Caçador - SC - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/765
+# Channel table for Ca�ador - SC - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=765
 
-# Physical channel 16 (virtual 17.1)
-[Rede Vida]
+# Physical channel 16 (virtual 17.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

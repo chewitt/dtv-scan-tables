@@ -1,8 +1,8 @@
 # Channel table for Caucaia - CE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3585
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3585
 
 # Physical channel 11 (virtual 11.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 201142857
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 16 (virtual 16.1)
+# Physical channel 16 (virtual 16.2)
 [TV Metrópole]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 19 (virtual 19.1)
-[Rede Brasil]
+[Rede Brasil de TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 20.1)
-[NordesTV]
+[Band Ceará]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 61.4)
-[TV Câmara, TV Senado, TV Assembleia CE, TV Fortaleza]
+# Physical channel 30 (virtual 7.4)
+[TV Câmara, TV Fortaleza, TV Assembleia CE, TV Senado]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -379,7 +379,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 32 (virtual 8.1)
-[TV Cidade]
+[TV Cidade/CE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -436,8 +436,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 2.1)
-[Rede TV!]
+# Physical channel 34 (virtual 2.2)
+[Rede TV!, Universo EADTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -524,7 +524,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 39.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -581,8 +581,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 45 (virtual 46.1)
-[Rede Vida]
+# Physical channel 45 (virtual 46.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857
@@ -611,7 +611,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 47 (virtual 48.1)
-[TV O Povo]
+[Canal FDR]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

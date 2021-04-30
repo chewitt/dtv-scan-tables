@@ -1,8 +1,8 @@
-# Channel table for Oriximin√° - PA - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/342
+# Channel table for Oriximin· - PA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=342
 
 # Physical channel 43 (virtual 43.1)
-[Boas Novas]
+[TV MBN]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857

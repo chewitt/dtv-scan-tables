@@ -1,5 +1,5 @@
 # Channel table for Pimenta Bueno - RO - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/498
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=498
 
 # Physical channel 38 (virtual 12.1)
 [TV Allamanda]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 45 (virtual 45.1)
-[Kake TV]
+[Rede TV! Pimenta Bueno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857

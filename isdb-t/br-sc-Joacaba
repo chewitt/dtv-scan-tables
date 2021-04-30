@@ -1,8 +1,8 @@
-# Channel table for Joaçaba - SC - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/476
+# Channel table for Joa�aba - SC - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=476
 
-# Physical channel 16 (virtual 17.1)
-[Rede Vida]
+# Physical channel 16 (virtual 17.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 26.1)
-[RICTV Xanxerê]
+[NDTV Chapecó]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

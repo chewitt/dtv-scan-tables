@@ -1,8 +1,8 @@
 # Channel table for Itaguara - MG - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3324
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3324
 
 # Physical channel 13 (virtual 6.1)
-[Globo Minas]
+[TV Globo Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 213142857

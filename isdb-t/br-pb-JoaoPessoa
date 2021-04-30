@@ -1,5 +1,5 @@
-# Channel table for João Pessoa - PB - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/151
+# Channel table for Jo�o Pessoa - PB - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=151
 
 # Physical channel 15 (virtual 15.1)
 [RBI TV]
@@ -117,35 +117,6 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20 (virtual 20.1)
-[Rede Brasil]
-	DELIVERY_SYSTEM = ISDBT
-	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 509142857
-	INVERSION = AUTO
-	GUARD_INTERVAL = AUTO
-	TRANSMISSION_MODE = AUTO
-	INVERSION = AUTO
-	GUARD_INTERVAL = AUTO
-	TRANSMISSION_MODE = AUTO
-	ISDBT_LAYER_ENABLED = 7
-	ISDBT_SOUND_BROADCASTING = 0
-	ISDBT_SB_SUBCHANNEL_ID = 0
-	ISDBT_SB_SEGMENT_IDX = 0
-	ISDBT_SB_SEGMENT_COUNT = 0
-	ISDBT_LAYERA_FEC = AUTO
-	ISDBT_LAYERA_MODULATION = QAM/AUTO
-	ISDBT_LAYERA_SEGMENT_COUNT = 0
-	ISDBT_LAYERA_TIME_INTERLEAVING = 0
-	ISDBT_LAYERB_FEC = AUTO
-	ISDBT_LAYERB_MODULATION = QAM/AUTO
-	ISDBT_LAYERB_SEGMENT_COUNT = 0
-	ISDBT_LAYERB_TIME_INTERLEAVING = 0
-	ISDBT_LAYERC_FEC = AUTO
-	ISDBT_LAYERC_MODULATION = QAM/AUTO
-	ISDBT_LAYERC_SEGMENT_COUNT = 0
-	ISDBT_LAYERC_TIME_INTERLEAVING = 0
-
 # Physical channel 23 (virtual 14.1)
 [TV Arapuan]
 	DELIVERY_SYSTEM = ISDBT
@@ -233,7 +204,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 27 (virtual 27.4)
+# Physical channel 27 (virtual 27.1)
 [Rede Mundial]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -321,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 33 (virtual 32.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -350,7 +321,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 35.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857
@@ -407,8 +378,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 39 (virtual 39.2)
-[TV Câmara João Pessoa, TV Câmara]
+# Physical channel 39 (virtual 6.3)
+[TV Câmara, TV Câmara João Pessoa, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -436,8 +407,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41 (virtual 40.3)
-[TV Senado, TV Assembleia PB, TV Câmara]
+# Physical channel 41 (virtual 8.4)
+[TV Senado, TV Assembleia PB, Paraíba Educa, TV Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857
@@ -523,8 +494,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 47 (virtual 48.1)
-[Rede Vida]
+# Physical channel 47 (virtual 48.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

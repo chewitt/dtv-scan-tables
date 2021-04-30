@@ -1,8 +1,8 @@
 # Channel table for Pau Dos Ferros - RN - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/493
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=493
 
 # Physical channel 18 (virtual 18.1)
-[TV Assembleia RN]
+[TV Lagoa Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857

@@ -1,5 +1,5 @@
-# Channel table for Bela Vista De Goi√°s - GO - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3534
+# Channel table for Bela Vista De Goi·s - GO - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3534
 
 # Physical channel 15 (virtual 15.1)
 [TV UFG]
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 29.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857

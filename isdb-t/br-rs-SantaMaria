@@ -1,5 +1,5 @@
 # Channel table for Santa Maria - RS - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/71
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=71
 
 # Physical channel 14 (virtual 17.1)
 [TV Canção Nova]
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 16 (virtual 15.1)
-[Rede Vida]
+# Physical channel 16 (virtual 15.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 18 (virtual 18.4)
-[TV Câmara, TV Câmara Santa Maria, ALTV, TV Senado]
+[TV Câmara, TV Câmara Santa Maria, TV AL RS, TV Senado]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 46.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857
@@ -263,7 +263,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 21.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

@@ -1,5 +1,5 @@
-# Channel table for Balne√°rio Barra Do Sul - SC - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3827
+# Channel table for Balne·rio Barra Do Sul - SC - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3827
 
 # Physical channel 28 (virtual 31.1)
 [Record News SC]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 8.1)
-[RICTV Joinville]
+[NDTV Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

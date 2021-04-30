@@ -1,5 +1,5 @@
 # Channel table for Taquarituba - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2890
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2890
 
 # Physical channel 24 (virtual 24.1)
 [SBT Central]
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 41.1)
+# Physical channel 28 (virtual 4.1)
 [Record TV Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 3.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

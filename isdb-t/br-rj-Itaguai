@@ -1,5 +1,5 @@
-# Channel table for ItaguaÃ­ - RJ - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/84
+# Channel table for Itaguaí - RJ - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=84
 
 # Physical channel 22 (virtual 33.1)
 [Rede Vida]
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28 (virtual 4.1)
-[Rede Globo]
+[TV Globo]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857

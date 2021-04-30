@@ -1,5 +1,5 @@
-# Channel table for QuirinÃ³polis - GO - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/571
+# Channel table for Quirinópolis - GO - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=571
 
 # Physical channel 16 (virtual 10.1)
 [TV Anhanguera Rio Verde]
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 39 (virtual 19.1)
+# Physical channel 39 (virtual 5.1)
 [TV Serra Dourada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,8 +1,8 @@
-# Channel table for Brasília (gama) - DF - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/53
+# Channel table for Bras�lia (gama) - DF - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=53
 
-# Physical channel 14 (virtual 2.2)
-[TV Brasil, TV Brasil 2]
+# Physical channel 14 (virtual 2.4)
+[TV Brasil, TV Brasil 2, TV Escola, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 10.1)
-[Globo Brasília]
+[TV Globo Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -233,8 +233,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 49.1)
-[Rede Vida]
+# Physical channel 34 (virtual 49.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -378,7 +378,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 50 (virtual 51.4)
+# Physical channel 50 (virtual 7.4)
 [TV Senado, TV Senado 2, TV Senado 3, TV Senado 4]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

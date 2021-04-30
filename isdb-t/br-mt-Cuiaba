@@ -1,8 +1,8 @@
-# Channel table for Cuiabá - MT - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/200
+# Channel table for Cuiab� - MT - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=200
 
 # Physical channel 14 (virtual 15.1)
-[Band]
+[Band Mato Grosso]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857
@@ -204,8 +204,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24 (virtual 24.1)
-[Ideal TV]
+# Physical channel 24 (virtual 25.1)
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28 (virtual 7.1)
-[TV Cidadã]
+[Record News Cuiabá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -321,7 +321,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 30.2)
-[TV Assembleia MT, Canal sem transmissão]
+[TV Assembleia MT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -349,8 +349,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32 (virtual 32.4)
-[TV Câmara, TV Assembleia MT, TV Senado, TV Câmara Municipal]
+# Physical channel 32 (virtual 3.5)
+[TV Câmara, TV Assembleia MT, TV Câmara Municipal, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -378,7 +378,36 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 34.1)
+# Physical channel 33 (virtual 6.1)
+[CNT]
+	DELIVERY_SYSTEM = ISDBT
+	BANDWIDTH_HZ = 6000000
+	FREQUENCY = 587142857
+	INVERSION = AUTO
+	GUARD_INTERVAL = AUTO
+	TRANSMISSION_MODE = AUTO
+	INVERSION = AUTO
+	GUARD_INTERVAL = AUTO
+	TRANSMISSION_MODE = AUTO
+	ISDBT_LAYER_ENABLED = 7
+	ISDBT_SOUND_BROADCASTING = 0
+	ISDBT_SB_SUBCHANNEL_ID = 0
+	ISDBT_SB_SEGMENT_IDX = 0
+	ISDBT_SB_SEGMENT_COUNT = 0
+	ISDBT_LAYERA_FEC = AUTO
+	ISDBT_LAYERA_MODULATION = QAM/AUTO
+	ISDBT_LAYERA_SEGMENT_COUNT = 0
+	ISDBT_LAYERA_TIME_INTERLEAVING = 0
+	ISDBT_LAYERB_FEC = AUTO
+	ISDBT_LAYERB_MODULATION = QAM/AUTO
+	ISDBT_LAYERB_SEGMENT_COUNT = 0
+	ISDBT_LAYERB_TIME_INTERLEAVING = 0
+	ISDBT_LAYERC_FEC = AUTO
+	ISDBT_LAYERC_MODULATION = QAM/AUTO
+	ISDBT_LAYERC_SEGMENT_COUNT = 0
+	ISDBT_LAYERC_TIME_INTERLEAVING = 0
+
+# Physical channel 34 (virtual 33.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -552,8 +581,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 43 (virtual 44.1)
-[Rede Vida]
+# Physical channel 43 (virtual 44.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857
@@ -581,8 +610,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 45 (virtual 5.1)
-[SBT Cuiabá]
+# Physical channel 45 (virtual 5.2)
+[SBT Cuiabá, Canal sem transmissão]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857
@@ -640,7 +669,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 47 (virtual 49.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857
@@ -669,7 +698,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 48 (virtual 48.1)
-[Rede Brasil]
+[Rede Brasil de TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

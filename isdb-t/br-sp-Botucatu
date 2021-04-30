@@ -1,5 +1,5 @@
 # Channel table for Botucatu - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/472
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=472
 
 # Physical channel 14 (virtual 14.1)
 [RBI TV]
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21 (virtual 36.1)
-[Rede Vida]
+# Physical channel 21 (virtual 21.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -117,7 +117,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23 (virtual 23.1)
+# Physical channel 23 (virtual 12.1)
 [SBT Central]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -204,7 +204,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31 (virtual 61.4)
+# Physical channel 31 (virtual 31.4)
 [TV Câmara, Rede ALESP, TV Câmara Municipal, TV Senado]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 19.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857
@@ -263,7 +263,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 38.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

@@ -1,8 +1,8 @@
-# Channel table for Naz√°ria - PI - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1772
+# Channel table for Naz·ria - PI - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1772
 
-# Physical channel 20 (virtual 20.1)
-[TV Jornal Meio Norte]
+# Physical channel 20 (virtual 20.2)
+[TV Jornal, TV Vinte.2]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

@@ -1,7 +1,7 @@
 # Channel table for Ponta Grossa (guaraji) - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3272
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3272
 
-# Physical channel 41 (virtual 51.1)
+# Physical channel 41 (virtual 41.1)
 [RPC Ponta Grossa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

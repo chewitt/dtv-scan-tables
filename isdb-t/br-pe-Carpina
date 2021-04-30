@@ -1,8 +1,8 @@
 # Channel table for Carpina - PE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3643
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3643
 
 # Physical channel 15 (virtual 14.1)
-[Rede Estação]
+[Rede Brasil]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857

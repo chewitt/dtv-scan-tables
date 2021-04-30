@@ -1,5 +1,5 @@
-# Channel table for Jequitib√° - MG - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3602
+# Channel table for Jequitib· - MG - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3602
 
 # Physical channel 17 (virtual 17.1)
 [Rede Minas]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 33 (virtual 12.1)
-[Globo Minas]
+[TV Globo Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857

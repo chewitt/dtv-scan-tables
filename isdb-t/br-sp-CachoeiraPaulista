@@ -1,5 +1,5 @@
 # Channel table for Cachoeira Paulista - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/368
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=368
 
 # Physical channel 28 (virtual 3.1)
 [TV Vanguarda Taubaté]
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 42 (virtual 8.1)
+# Physical channel 42 (virtual 42.1)
 [Record TV Litoral]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 48.1)
-[Rede Vida]
+# Physical channel 49 (virtual 48.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

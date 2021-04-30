@@ -1,5 +1,5 @@
 # Channel table for Ubatuba - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/473
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=473
 
 # Physical channel 17 (virtual 58.1)
 [TV Vanguarda Taubaté]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 3.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -204,7 +204,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 8.1)
+# Physical channel 33 (virtual 33.1)
 [Record TV Litoral]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -262,11 +262,11 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 45 (virtual 45.1)
-[NGT]
+# Physical channel 41 (virtual 41.1)
+[TV Aparecida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 659142857
+	FREQUENCY = 635142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO

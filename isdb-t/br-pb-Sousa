@@ -1,5 +1,5 @@
 # Channel table for Sousa - PB - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1767
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1767
 
 # Physical channel 21 (virtual 9.1)
 [TV Paraíba]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 41.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

@@ -1,8 +1,8 @@
-# Channel table for Gravataí - RS - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3769
+# Channel table for Gravata� - RS - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3769
 
 # Physical channel 15 (virtual 14.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 22.1)
-[Rede Brasil]
+[Rede Brasil de TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 61.4)
-[TV Câmara, ALTV, TV Senado, TV Câmara Porto Alegre]
+# Physical channel 25 (virtual 11.5)
+[TV Câmara, TV AL RS, TV Câmara Porto Alegre, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 38.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -378,7 +378,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41 (virtual 41.1)
+# Physical channel 41 (virtual 40.1)
 [RBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

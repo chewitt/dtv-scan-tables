@@ -1,5 +1,5 @@
 # Channel table for Itatiba - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/431
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=431
 
 # Physical channel 16 (virtual 4.1)
 [Band Mais]
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24 (virtual 2.2)
-[TV Cultura, Univesp]
+# Physical channel 24 (virtual 2.3)
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28 (virtual 6.1)
-[TVB]
+[TV Thathi]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32 (virtual 32.1)
-[Rede Vida]
+# Physical channel 32 (virtual 32.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857

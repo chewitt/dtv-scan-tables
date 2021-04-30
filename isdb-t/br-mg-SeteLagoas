@@ -1,5 +1,5 @@
 # Channel table for Sete Lagoas - MG - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/294
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=294
 
 # Physical channel 12 (virtual 12.1)
 [Rede Super]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 18 (virtual 38.1)
-[Globo Minas]
+[TV Globo Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 43.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857
@@ -262,8 +262,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 46 (virtual 46.4)
-[TV Câmara, TV Câmara Municipal Sete Lagoas, TV Assembleia MG, TV Senado]
+# Physical channel 46 (virtual 11.5)
+[TV Câmara, TV Câmara Municipal Sete Lagoas, TV Assembleia MG, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857
@@ -291,8 +291,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 30.1)
-[Rede Vida]
+# Physical channel 49 (virtual 7.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

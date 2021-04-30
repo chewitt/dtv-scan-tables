@@ -1,5 +1,5 @@
 # Channel table for Barretos - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/218
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=218
 
 # Physical channel 14 (virtual 14.1)
 [Record News]
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 18 (virtual 17.1)
+# Physical channel 18 (virtual 18.1)
 [TV Clube Ribeirão Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21 (virtual 6.1)
-[Rede Vida]
+# Physical channel 21 (virtual 6.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -262,7 +262,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32 (virtual 8.1)
+# Physical channel 32 (virtual 32.1)
 [Vale TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 12.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

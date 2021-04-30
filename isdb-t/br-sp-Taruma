@@ -1,5 +1,5 @@
-# Channel table for Tarum√£ - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3660
+# Channel table for Tarum„ - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3660
 
 # Physical channel 26 (virtual 26.1)
 [TV Tem Bauru]
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 48.1)
+# Physical channel 28 (virtual 4.1)
 [Record TV Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,5 +1,5 @@
 # Channel table for Pareci Novo - RS - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3776
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3776
 
 # Physical channel 17 (virtual 16.1)
 [Rede Vida]
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 61.4)
-[TV Câmara, ALTV, TV Senado, TV Câmara Porto Alegre]
+# Physical channel 25 (virtual 11.5)
+[TV Câmara, TV AL RS, TV Câmara Porto Alegre, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857

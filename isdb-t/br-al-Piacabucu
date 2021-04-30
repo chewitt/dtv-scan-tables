@@ -1,5 +1,5 @@
-# Channel table for PiaÃ§abuÃ§u - AL - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2256
+# Channel table for Piaçabuçu - AL - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2256
 
 # Physical channel 21 (virtual 17.1)
 [TV Gazeta AL]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 27 (virtual 27.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 551142857

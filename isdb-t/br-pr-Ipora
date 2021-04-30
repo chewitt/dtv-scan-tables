@@ -1,8 +1,8 @@
-# Channel table for Ipor√£ - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3917
+# Channel table for Ipor„ - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3917
 
-# Physical channel 32 (virtual 32.1)
-[Rede Massa Tibagi]
+# Physical channel 32 (virtual 32.2)
+[Rede Massa Tibagi, TV Escola Curitiba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857

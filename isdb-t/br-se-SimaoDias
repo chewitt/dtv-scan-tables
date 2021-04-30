@@ -1,8 +1,8 @@
-# Channel table for Sim√£o Dias - SE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/288
+# Channel table for Sim„o Dias - SE - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=288
 
 # Physical channel 47 (virtual 47.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

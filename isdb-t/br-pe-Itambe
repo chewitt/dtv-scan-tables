@@ -1,8 +1,8 @@
-# Channel table for ItambÃ© - PE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3376
+# Channel table for Itambé - PE - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3376
 
 # Physical channel 36 (virtual 46.1)
-[Globo Nordeste]
+[TV Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

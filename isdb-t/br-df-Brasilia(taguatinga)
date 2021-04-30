@@ -1,8 +1,8 @@
-# Channel table for Brasília (taguatinga) - DF - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3469
+# Channel table for Bras�lia (taguatinga) - DF - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3469
 
 # Physical channel 14 (virtual 14.1)
-[Top TV]
+[MCI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 19 (virtual 22.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 10.1)
-[Globo Brasília]
+[TV Globo Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 31 (virtual 32.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -349,8 +349,37 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 35.1)
-[Rede Vida]
+# Physical channel 33 (virtual 33.1)
+[TV Aparecida]
+	DELIVERY_SYSTEM = ISDBT
+	BANDWIDTH_HZ = 6000000
+	FREQUENCY = 587142857
+	INVERSION = AUTO
+	GUARD_INTERVAL = AUTO
+	TRANSMISSION_MODE = AUTO
+	INVERSION = AUTO
+	GUARD_INTERVAL = AUTO
+	TRANSMISSION_MODE = AUTO
+	ISDBT_LAYER_ENABLED = 7
+	ISDBT_SOUND_BROADCASTING = 0
+	ISDBT_SB_SUBCHANNEL_ID = 0
+	ISDBT_SB_SEGMENT_IDX = 0
+	ISDBT_SB_SEGMENT_COUNT = 0
+	ISDBT_LAYERA_FEC = AUTO
+	ISDBT_LAYERA_MODULATION = QAM/AUTO
+	ISDBT_LAYERA_SEGMENT_COUNT = 0
+	ISDBT_LAYERA_TIME_INTERLEAVING = 0
+	ISDBT_LAYERB_FEC = AUTO
+	ISDBT_LAYERB_MODULATION = QAM/AUTO
+	ISDBT_LAYERB_SEGMENT_COUNT = 0
+	ISDBT_LAYERB_TIME_INTERLEAVING = 0
+	ISDBT_LAYERC_FEC = AUTO
+	ISDBT_LAYERC_MODULATION = QAM/AUTO
+	ISDBT_LAYERC_SEGMENT_COUNT = 0
+	ISDBT_LAYERC_TIME_INTERLEAVING = 0
+
+# Physical channel 34 (virtual 35.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -379,7 +408,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35 (virtual 13.1)
-[Rede Brasil]
+[RBTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -408,7 +437,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 36.1)
-[TV Metropolitana]
+[Rede Brasil de TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857
@@ -436,8 +465,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38 (virtual 54.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 38 (virtual 38.3)
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -639,7 +668,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 27.4)
+# Physical channel 49 (virtual 9.4)
 [TV Câmara, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -668,7 +697,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 50 (virtual 51.4)
+# Physical channel 50 (virtual 7.4)
 [TV Senado, TV Senado 2, TV Senado 3, TV Senado 4]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -698,7 +727,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 51 (virtual 11.1)
-[TV União]
+[TV União Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 695142857

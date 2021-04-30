@@ -1,11 +1,11 @@
-# Channel table for Guairaçá - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3867
+# Channel table for Guaira�� - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3867
 
-# Physical channel 19 (virtual 22.2)
-[Rede Mundial]
+# Physical channel 21 (virtual 5.2)
+[Rede Massa Tibagi, TV Escola Curitiba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 503142857
+	FREQUENCY = 515142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO
@@ -30,11 +30,11 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21 (virtual 5.1)
-[Rede Massa Tibagi]
+# Physical channel 34 (virtual 13.4)
+[RICTV Maringá, Aula Paraná, Aula Paraná, Aula Paraná]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 515142857
+	FREQUENCY = 593142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO

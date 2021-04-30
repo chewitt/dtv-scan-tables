@@ -1,8 +1,8 @@
 # Channel table for Cascavel - CE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3587
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3587
 
 # Physical channel 21 (virtual 20.1)
-[NordesTV]
+[Band Ceará]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

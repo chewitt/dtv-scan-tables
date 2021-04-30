@@ -1,8 +1,8 @@
-# Channel table for Brasília (planaltina) - DF - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3475
+# Channel table for Bras�lia (planaltina) - DF - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3475
 
 # Physical channel 14 (virtual 14.1)
-[Top TV]
+[MCI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 19 (virtual 22.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 10.1)
-[Globo Brasília]
+[TV Globo Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -262,11 +262,11 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36 (virtual 36.1)
-[TV Metropolitana]
+# Physical channel 35 (virtual 13.1)
+[RBTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 605142857
+	FREQUENCY = 599142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO
@@ -320,7 +320,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 27.4)
+# Physical channel 49 (virtual 9.4)
 [TV Câmara, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -349,7 +349,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 50 (virtual 51.4)
+# Physical channel 50 (virtual 7.4)
 [TV Senado, TV Senado 2, TV Senado 3, TV Senado 4]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

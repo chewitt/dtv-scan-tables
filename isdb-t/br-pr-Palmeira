@@ -1,8 +1,8 @@
 # Channel table for Palmeira - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1709
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1709
 
-# Physical channel 21 (virtual 58.1)
-[Rede Massa Guará]
+# Physical channel 21 (virtual 58.2)
+[Rede Massa Guará, TV Escola Curitiba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 47.1)
-[RICTV]
+# Physical channel 49 (virtual 47.4)
+[RICTV, Aula Paraná, Aula Paraná, Aula Paraná]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

@@ -1,5 +1,5 @@
-# Channel table for Rinópolis - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1014
+# Channel table for Rin�polis - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1014
 
 # Physical channel 20 (virtual 20.1)
 [Rede Vida]
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 5.1)
+# Physical channel 28 (virtual 4.1)
 [Record TV Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 34.1)
+# Physical channel 33 (virtual 33.1)
 [SBT Interior/SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 39 (virtual 4.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 39 (virtual 39.3)
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -233,8 +233,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 48 (virtual 48.1)
-[Rede TV!]
+# Physical channel 48 (virtual 48.2)
+[Rede TV!, Universo EADTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

@@ -1,8 +1,8 @@
 # Channel table for Cujubim - RO - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/912
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=912
 
-# Physical channel 18 (virtual 33.1)
-[SIC TV]
+# Physical channel 18 (virtual 18.1)
+[Rede TV! Rondônia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857

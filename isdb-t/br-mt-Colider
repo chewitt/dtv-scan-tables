@@ -1,5 +1,5 @@
-# Channel table for Colíder - MT - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2147
+# Channel table for Col�der - MT - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2147
 
 # Physical channel 39 (virtual 5.1)
 [TV Nova Visão]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 46 (virtual 9.1)
-[TV Piraíba]
+[TV Cidade Verde Colíder]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

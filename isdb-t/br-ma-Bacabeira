@@ -1,5 +1,5 @@
 # Channel table for Bacabeira - MA - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3334
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3334
 
 # Physical channel 22 (virtual 23.1)
 [TV Guará]
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 26.1)
-[Rede Vida]
+# Physical channel 25 (virtual 26.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -262,7 +262,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 51 (virtual 51.3)
+# Physical channel 51 (virtual 9.3)
 [TV Senado, TV Assembleia MA, TV Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

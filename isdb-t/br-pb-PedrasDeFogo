@@ -1,5 +1,5 @@
 # Channel table for Pedras De Fogo - PB - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2839
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2839
 
 # Physical channel 19 (virtual 7.1)
 [TV Cabo Branco]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 46.1)
-[Globo Nordeste]
+[TV Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

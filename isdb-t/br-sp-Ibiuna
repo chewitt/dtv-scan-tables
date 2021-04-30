@@ -1,8 +1,8 @@
-# Channel table for IbiÃºna - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1002
+# Channel table for Ibiúna - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1002
 
 # Physical channel 19 (virtual 19.1)
-[Globo SP]
+[TV Globo SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857

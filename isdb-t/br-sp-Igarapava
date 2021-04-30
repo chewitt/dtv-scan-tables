@@ -1,8 +1,8 @@
 # Channel table for Igarapava - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/786
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=786
 
-# Physical channel 21 (virtual 53.1)
-[Rede Vida]
+# Physical channel 21 (virtual 53.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 4.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

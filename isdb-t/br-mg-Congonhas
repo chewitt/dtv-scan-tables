@@ -1,8 +1,8 @@
 # Channel table for Congonhas - MG - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2945
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2945
 
 # Physical channel 31 (virtual 9.1)
-[Globo Minas]
+[TV Globo Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857

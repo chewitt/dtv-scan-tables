@@ -1,5 +1,5 @@
-# Channel table for Cássia Dos Coqueiros - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2740
+# Channel table for C�ssia Dos Coqueiros - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2740
 
 # Physical channel 18 (virtual 17.1)
 [TV Clube Ribeirão Preto]
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23 (virtual 5.1)
+# Physical channel 23 (virtual 23.1)
 [SBT Ribeirão Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 4.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

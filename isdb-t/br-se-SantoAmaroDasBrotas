@@ -1,7 +1,7 @@
 # Channel table for Santo Amaro Das Brotas - SE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2305
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2305
 
-# Physical channel 14 (virtual 5.1)
+# Physical channel 14 (virtual 3.1)
 [TV Liberdade]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 28.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31 (virtual 6.1)
-[TV Aperipê]
+# Physical channel 31 (virtual 6.2)
+[TV Aperipê, Aperipê Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -204,8 +204,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 4.1)
-[TV Sergipe]
+# Physical channel 33 (virtual 4.2)
+[TV Sergipe, Educação SE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -321,7 +321,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 42 (virtual 42.1)
-[Rede Brasil]
+[Rede Brasil de TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857
@@ -378,8 +378,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 48 (virtual 48.4)
-[TV Senado, TV ALESE, TV Câmara, TV Câmara Municipal Aracaju]
+# Physical channel 48 (virtual 5.4)
+[TV Senado, TV ALESE, TV Câmara Municipal Aracaju]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

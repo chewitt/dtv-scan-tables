@@ -1,5 +1,5 @@
-# Channel table for Araçoiaba Da Serra - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3655
+# Channel table for Ara�oiaba Da Serra - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3655
 
 # Physical channel 17 (virtual 57.1)
 [TV Gazeta]
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31 (virtual 31.3)
-[Rede ALESP, TV Câmara, TV Câmara Municipal Sorocaba]
+# Physical channel 31 (virtual 31.5)
+[Rede ALESP, TV Câmara, TV Câmara Municipal Sorocaba, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32 (virtual 32.1)
-[Rede Vida]
+# Physical channel 32 (virtual 32.2)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 14.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857
@@ -320,37 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 47 (virtual 20.1)
-[Top TV]
-	DELIVERY_SYSTEM = ISDBT
-	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 671142857
-	INVERSION = AUTO
-	GUARD_INTERVAL = AUTO
-	TRANSMISSION_MODE = AUTO
-	INVERSION = AUTO
-	GUARD_INTERVAL = AUTO
-	TRANSMISSION_MODE = AUTO
-	ISDBT_LAYER_ENABLED = 7
-	ISDBT_SOUND_BROADCASTING = 0
-	ISDBT_SB_SUBCHANNEL_ID = 0
-	ISDBT_SB_SEGMENT_IDX = 0
-	ISDBT_SB_SEGMENT_COUNT = 0
-	ISDBT_LAYERA_FEC = AUTO
-	ISDBT_LAYERA_MODULATION = QAM/AUTO
-	ISDBT_LAYERA_SEGMENT_COUNT = 0
-	ISDBT_LAYERA_TIME_INTERLEAVING = 0
-	ISDBT_LAYERB_FEC = AUTO
-	ISDBT_LAYERB_MODULATION = QAM/AUTO
-	ISDBT_LAYERB_SEGMENT_COUNT = 0
-	ISDBT_LAYERB_TIME_INTERLEAVING = 0
-	ISDBT_LAYERC_FEC = AUTO
-	ISDBT_LAYERC_MODULATION = QAM/AUTO
-	ISDBT_LAYERC_SEGMENT_COUNT = 0
-	ISDBT_LAYERC_TIME_INTERLEAVING = 0
-
-# Physical channel 48 (virtual 49.1)
-[Rede TV!]
+# Physical channel 48 (virtual 49.2)
+[Rede TV!, Universo EADTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

@@ -1,5 +1,5 @@
 # Channel table for Meruoca - CE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2548
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2548
 
 # Physical channel 34 (virtual 10.1)
 [TV Verdes Mares]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 48.1)
-[NordesTV]
+[TV Jangadeiro]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

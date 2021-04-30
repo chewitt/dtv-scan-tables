@@ -1,8 +1,8 @@
 # Channel table for Delmiro Gouveia - AL - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1258
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1258
 
 # Physical channel 26 (virtual 26.1)
-[RCI Minas]
+[TV Pai Eterno MG]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857

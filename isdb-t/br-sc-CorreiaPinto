@@ -1,8 +1,8 @@
 # Channel table for Correia Pinto - SC - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2231
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2231
 
 # Physical channel 30 (virtual 7.1)
-[RICTV Florianópolis]
+[NDTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

@@ -1,7 +1,7 @@
-# Channel table for S√£o Jo√£o Del Rei - MG - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/173
+# Channel table for S„o Jo„o Del Rei - MG - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=173
 
-# Physical channel 24 (virtual 19.1)
+# Physical channel 24 (virtual 24.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

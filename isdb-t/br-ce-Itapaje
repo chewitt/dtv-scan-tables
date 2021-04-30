@@ -1,8 +1,8 @@
-# Channel table for ItapajÃ© - CE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1336
+# Channel table for Itapajé - CE - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1336
 
-# Physical channel 26 (virtual 26.1)
-[TV Cidade]
+# Physical channel 26 (virtual 8.1)
+[TV Cidade/CE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857

@@ -1,8 +1,8 @@
-# Channel table for Marcelândia - MT - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/302
+# Channel table for Marcel�ndia - MT - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=302
 
 # Physical channel 49 (virtual 13.1)
-[Record TV Marcelândia]
+[PBC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

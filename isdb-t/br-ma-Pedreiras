@@ -1,8 +1,8 @@
 # Channel table for Pedreiras - MA - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1411
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1411
 
-# Physical channel 41 (virtual 11.1)
-[TV Cidade]
+# Physical channel 41 (virtual 11.2)
+[TV Cidade, TV Educação MA]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

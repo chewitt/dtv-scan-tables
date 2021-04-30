@@ -1,5 +1,5 @@
 # Channel table for Ouro Branco - MG - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2916
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2916
 
 # Physical channel 15 (virtual 2.1)
 [Record TV Minas]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 18 (virtual 6.1)
-[Globo Minas]
+[TV Globo Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857

@@ -1,8 +1,8 @@
-# Channel table for Canaã Dos Carajás - PA - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/285
+# Channel table for Cana� Dos Caraj�s - PA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=285
 
 # Physical channel 17 (virtual 17.1)
-[Rede TV! Canaã]
+[Rede TV! Karajás]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

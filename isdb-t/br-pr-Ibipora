@@ -1,5 +1,5 @@
-# Channel table for Ibipor√£ - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/338
+# Channel table for Ibipor„ - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=338
 
 # Physical channel 15 (virtual 21.1)
 [Canal 21]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 24.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 26 (virtual 44.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857

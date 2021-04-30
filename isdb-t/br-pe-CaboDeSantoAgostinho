@@ -1,8 +1,8 @@
 # Channel table for Cabo De Santo Agostinho - PE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3557
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3557
 
 # Physical channel 15 (virtual 14.1)
-[Rede Estação]
+[Rede Brasil]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 7.1)
-[Ideal TV]
+[Loading TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 6.1)
-[Rede TV! Recife]
+# Physical channel 25 (virtual 6.2)
+[Rede TV! Recife, Universo EADTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -204,8 +204,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 28.4)
-[TV Câmara, TV ALEPE, TV Senado]
+# Physical channel 28 (virtual 10.4)
+[TV Câmara, TV ALEPE, TV Câmara Recife, TV Senado]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 13.1)
-[Globo Nordeste]
+[TV Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857
@@ -408,7 +408,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 49 (virtual 49.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

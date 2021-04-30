@@ -1,5 +1,5 @@
-# Channel table for CrateÃºs - CE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/506
+# Channel table for Crateús - CE - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=506
 
 # Physical channel 16 (virtual 15.1)
 [Rede Vida]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 27 (virtual 27.1)
-[TV Cidade]
+[TV Cidade/CE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 551142857

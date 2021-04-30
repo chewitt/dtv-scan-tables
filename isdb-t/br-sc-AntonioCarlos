@@ -1,5 +1,5 @@
-# Channel table for Antônio Carlos - SC - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1468
+# Channel table for Ant�nio Carlos - SC - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1468
 
 # Physical channel 16 (virtual 15.1)
 [TV Gazeta]
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 4.1)
-[RICTV Florianópolis]
+[NDTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -262,7 +262,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41 (virtual 41.1)
+# Physical channel 41 (virtual 8.1)
 [Rede Família]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -291,8 +291,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 43 (virtual 61.4)
-[TV Câmara, TV Senado, TV AL, TV Câmara Florianópolis]
+# Physical channel 43 (virtual 11.5)
+[TV Câmara, TV Câmara Florianópolis, TV AL, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857
@@ -379,7 +379,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 49 (virtual 49.1)
-[Rede Brasil]
+[Rede Brasil de TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857
@@ -408,7 +408,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 51 (virtual 50.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 695142857

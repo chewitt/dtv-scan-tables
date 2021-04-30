@@ -1,5 +1,5 @@
-# Channel table for Pontal Do Paraná - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/857
+# Channel table for Pontal Do Paran� - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=857
 
 # Physical channel 30 (virtual 32.2)
 [Rede Mundial]
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 39 (virtual 23.1)
-[Rede Massa Iguaçu]
+# Physical channel 39 (virtual 23.2)
+[Rede Massa Iguaçu, TV Escola Curitiba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 49.1)
-[RCI]
+# Physical channel 49 (virtual 7.2)
+[TV Pai Eterno, Aula Paranaguá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

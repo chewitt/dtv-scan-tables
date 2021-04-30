@@ -1,8 +1,8 @@
 # Channel table for Bela Cruz - CE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/1651
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1651
 
 # Physical channel 27 (virtual 27.1)
-[TV Cidade]
+[TV Cidade/CE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 551142857

@@ -1,7 +1,7 @@
 # Channel table for Palotina - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/167
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=167
 
-# Physical channel 24 (virtual 6.1)
+# Physical channel 24 (virtual 25.1)
 [TV Tarobá Cascavel]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

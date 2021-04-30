@@ -1,8 +1,8 @@
-# Channel table for Codó - MA - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/166
+# Channel table for Cod� - MA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=166
 
-# Physical channel 29 (virtual 9.1)
-[TV Mirante Cocais]
+# Physical channel 29 (virtual 9.2)
+[TV Mirante Cocais, TV Educação MA]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857

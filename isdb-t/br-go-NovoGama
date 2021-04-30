@@ -1,5 +1,5 @@
 # Channel table for Novo Gama - GO - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3486
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3486
 
 # Physical channel 14 (virtual 2.1)
 [TV Brasil]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 10.1)
-[Globo Brasília]
+[TV Globo Brasília]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 58.1)
-[TV Sagres]
+[Rede Cerrado]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

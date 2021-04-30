@@ -1,8 +1,8 @@
-# Channel table for Itaperuçu - PR - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2979
+# Channel table for Itaperu�u - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2979
 
-# Physical channel 34 (virtual 7.1)
-[RICTV]
+# Physical channel 34 (virtual 7.4)
+[RICTV, Aula Paraná, Aula Paraná, Aula Paraná]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

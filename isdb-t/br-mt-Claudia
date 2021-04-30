@@ -1,8 +1,8 @@
-# Channel table for Cláudia - MT - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/711
+# Channel table for Cl�udia - MT - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=711
 
 # Physical channel 32 (virtual 32.1)
-[TV Centro América Sinop]
+[TV Centro América Norte]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857

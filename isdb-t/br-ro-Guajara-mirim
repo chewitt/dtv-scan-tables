@@ -1,8 +1,8 @@
-# Channel table for Guajará-mirim - RO - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/110
+# Channel table for Guajar�-mirim - RO - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=110
 
 # Physical channel 14 (virtual 3.1)
-[TV Guajará-Mirim]
+[Rede Amazônica Guajará-Mirim]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857

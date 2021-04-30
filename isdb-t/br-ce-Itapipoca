@@ -1,8 +1,8 @@
 # Channel table for Itapipoca - CE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/547
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=547
 
-# Physical channel 17 (virtual 35.1)
-[Rede Vida]
+# Physical channel 17 (virtual 35.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

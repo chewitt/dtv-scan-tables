@@ -1,8 +1,8 @@
 # Channel table for Peixoto De Azevedo - MT - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/226
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=226
 
 # Physical channel 31 (virtual 13.1)
-[TV Centro América Sinop]
+[TV Centro América Norte]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857

@@ -1,5 +1,5 @@
-# Channel table for Santa Bárbara Do Pará - PA - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3799
+# Channel table for Santa B�rbara Do Par� - PA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3799
 
 # Physical channel 15 (virtual 14.1)
 [TV Grão-Pará]
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20 (virtual 19.1)
-[Rede Vida]
+# Physical channel 20 (virtual 19.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

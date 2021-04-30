@@ -1,8 +1,8 @@
 # Channel table for Sorriso - MT - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/235
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=235
 
-# Physical channel 19 (virtual 16.1)
-[Rede Vida]
+# Physical channel 19 (virtual 16.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 12.1)
-[TV Cidade Verde]
+[TV Cidade Verde Sorriso]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

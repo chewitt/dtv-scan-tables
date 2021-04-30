@@ -1,8 +1,8 @@
-# Channel table for Guapó - GO - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2240
+# Channel table for Guap� - GO - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2240
 
-# Physical channel 14 (virtual 28.1)
-[Rede Vida]
+# Physical channel 14 (virtual 28.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 29.1)
-[RCI]
+[TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857

@@ -1,8 +1,8 @@
-# Channel table for SirinhaÃ©m - PE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3820
+# Channel table for Sirinhaém - PE - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3820
 
 # Physical channel 34 (virtual 34.1)
-[Globo Nordeste]
+[TV Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

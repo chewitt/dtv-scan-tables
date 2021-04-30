@@ -1,5 +1,5 @@
-# Channel table for Tremembé - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3654
+# Channel table for Trememb� - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3654
 
 # Physical channel 14 (virtual 14.1)
 [RBI TV]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 8.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -291,7 +291,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 43 (virtual 10.1)
+# Physical channel 43 (virtual 43.1)
 [Record TV Litoral]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

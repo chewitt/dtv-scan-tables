@@ -1,8 +1,8 @@
 # Channel table for Salgadinho - PE - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/3839
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3839
 
 # Physical channel 12 (virtual 12.1)
-[Globo Nordeste]
+[TV Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 207142857

@@ -1,5 +1,5 @@
-# Channel table for Pirajuí - SP - Brazil
-# Source: http://www.portalbsd.com.br/tvterrestre/cidade/2938
+# Channel table for Piraju� - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2938
 
 # Physical channel 18 (virtual 39.1)
 [Band Paulista]
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 44 (virtual 13.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, TV Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

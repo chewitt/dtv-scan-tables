@@ -1,8 +1,8 @@
 # Channel table for Resende - RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=6
 
-# Physical channel 17 (virtual 15.1)
-[Band Rio Interior]
+# Physical channel 17 (virtual 15.2)
+[Band Rio Interior, TV SEEDUC RJ]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

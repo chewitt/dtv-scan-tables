@@ -2,7 +2,7 @@
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=734
 
 # Physical channel 30 (virtual 30.1)
-[TV Alterosa Divinópolis]
+[TV Alterosa Sul]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

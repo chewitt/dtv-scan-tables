@@ -1,8 +1,8 @@
 # Channel table for Pariquera A�u - SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=455
 
-# Physical channel 15 (virtual 23.1)
-[Rede Vida]
+# Physical channel 15 (virtual 23.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857

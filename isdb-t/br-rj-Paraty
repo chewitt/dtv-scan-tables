@@ -1,8 +1,8 @@
 # Channel table for Paraty - RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=643
 
-# Physical channel 15 (virtual 11.1)
-[Band Rio Interior]
+# Physical channel 15 (virtual 11.2)
+[Band Rio Interior, TV SEEDUC RJ]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857

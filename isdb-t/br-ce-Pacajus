@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 25 (virtual 25.1)
-[TV da Gente]
+[TV da Gente Vale do Caju]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -291,8 +291,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 7.4)
-[TV Câmara, TV Fortaleza, TV Assembleia CE, TV Senado]
+# Physical channel 30 (virtual 7.5)
+[TV Câmara, TV Fortaleza, TV Assembleia CE, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -494,8 +494,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41 (virtual 9.1)
-[TV Capital]
+# Physical channel 41 (virtual 11.1)
+[TV Sinal]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

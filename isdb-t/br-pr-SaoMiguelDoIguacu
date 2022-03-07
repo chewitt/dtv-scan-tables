@@ -2,7 +2,7 @@
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=269
 
 # Physical channel 26 (virtual 29.1)
-[RICTV Oeste]
+[RIC tv Oeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857

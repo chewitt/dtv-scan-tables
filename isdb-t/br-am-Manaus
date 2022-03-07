@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 23.1)
-[Loading TV]
+[Ideal TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -233,7 +233,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26 (virtual 16.1)
+# Physical channel 26 (virtual 11.1)
 [TV Cachoeira]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 8.1)
-[Boas Novas]
+# Physical channel 30 (virtual 8.2)
+[Boas Novas, Rádio Onda Digital]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -378,8 +378,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 6.4)
-[TV Senado, TV ALEAM, TV Câmara Municipal Manaus]
+# Physical channel 33 (virtual 6.5)
+[TV Senado, TV ALEAM, TV Câmara Municipal Manaus, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857

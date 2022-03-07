@@ -1,8 +1,8 @@
 # Channel table for Guaratuba - PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=188
 
-# Physical channel 15 (virtual 7.2)
-[TV Pai Eterno, Aula Paranaguá]
+# Physical channel 15 (virtual 52.2)
+[TVCI, Aula Paranaguá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31 (virtual 56.1)
+# Physical channel 31 (virtual 2.1)
 [Band Curitiba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 38.4)
-[RICTV, Aula Paraná, Aula Paraná, Aula Paraná]
+# Physical channel 34 (virtual 38.1)
+[RIC tv]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -204,7 +204,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 43 (virtual 44.1)
+# Physical channel 43 (virtual 6.1)
 [CNT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

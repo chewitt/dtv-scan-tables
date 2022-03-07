@@ -2,7 +2,7 @@
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=912
 
 # Physical channel 18 (virtual 18.1)
-[Rede TV! Rondônia]
+[Canal 18 Cujubim]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857

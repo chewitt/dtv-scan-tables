@@ -1,8 +1,8 @@
 # Channel table for Iep� - SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1013
 
-# Physical channel 16 (virtual 27.1)
-[Rede Vida]
+# Physical channel 16 (virtual 27.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

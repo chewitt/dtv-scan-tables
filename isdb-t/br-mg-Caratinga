@@ -1,8 +1,8 @@
 # Channel table for Caratinga - MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=312
 
-# Physical channel 23 (virtual 24.1)
-[Rede Vida]
+# Physical channel 23 (virtual 24.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

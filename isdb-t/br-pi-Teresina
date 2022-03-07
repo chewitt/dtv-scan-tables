@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 20.2)
-[TV Jornal, TV Vinte.2]
+[TV Jornal, Rádio Cocais FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22 (virtual 7.1)
-[TV Meio Norte]
+# Physical channel 22 (virtual 7.2)
+[TV Meio Norte, Rádio Meio Norte FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23 (virtual 23.1)
-[O Dia TV]
+# Physical channel 23 (virtual 23.2)
+[O Dia TV, Rádio O Dia FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857
@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26 (virtual 4.2)
-[TV Clube, Aulas SEMEC]
+# Physical channel 26 (virtual 4.3)
+[TV Clube, Educa Piauí, A Escola em Minha Casa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857
@@ -204,8 +204,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 5.2)
-[TV Cidade Verde, Cidade Verde FM]
+# Physical channel 28 (virtual 5.3)
+[TV Cidade Verde, Rádio Cidade Verde FM, Rádio CVMAIS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 29.1)
-[Loading TV]
+[Ideal TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 10.2)
-[TV Antena 10, Antena 10 Educa]
+# Physical channel 34 (virtual 10.3)
+[TV Antena 10, Antena 10 Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -378,8 +378,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38 (virtual 12.1)
-[Band Piauí]
+# Physical channel 38 (virtual 12.3)
+[Band Piauí, Rádio Band FM, Canal em teste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 43.1)
-[Band Rio Interior]
+# Physical channel 34 (virtual 43.2)
+[Band Rio Interior, TV SEEDUC RJ]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

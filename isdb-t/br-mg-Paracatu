@@ -1,8 +1,8 @@
 # Channel table for Paracatu - MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=572
 
-# Physical channel 18 (virtual 3.1)
-[TV Minas Brasil]
+# Physical channel 18 (virtual 18.1)
+[TVC Paracatu]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 7.1)
-[Rede Vida]
+# Physical channel 49 (virtual 7.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

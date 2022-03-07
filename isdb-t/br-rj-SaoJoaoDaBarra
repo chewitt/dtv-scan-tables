@@ -1,8 +1,8 @@
 # Channel table for São João Da Barra - RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1460
 
-# Physical channel 14 (virtual 2.1)
-[Band Rio Interior]
+# Physical channel 14 (virtual 2.2)
+[Band Rio Interior, TV SEEDUC RJ]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857

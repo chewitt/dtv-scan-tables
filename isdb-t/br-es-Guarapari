@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 19 (virtual 3.4)
-[TV Câmara, TV Assembleia ES, TV Senado]
+# Physical channel 19 (virtual 3.5)
+[TV Câmara, TV Assembleia ES, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 28.1)
-[Loading TV]
+[Ideal TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32 (virtual 9.3)
-[TV Guarapari, TV Brasil 2, Canal Saúde]
+# Physical channel 32 (virtual 9.2)
+[TV Guarapari, TV Brasil 2]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857

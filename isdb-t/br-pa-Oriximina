@@ -1,7 +1,7 @@
 # Channel table for Oriximiná - PA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=342
 
-# Physical channel 43 (virtual 43.1)
+# Physical channel 43 (virtual 4.1)
 [TV MBN]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

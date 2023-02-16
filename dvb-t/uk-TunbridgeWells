@@ -3,7 +3,7 @@
 # <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/TN11 0NB>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Tunbridge Wells
-# date (yyyy-mm-dd)    : 2020-07-10
+# date (yyyy-mm-dd)    : 2023-02-10
 #
 #----------------------------------------------------------------------------------------------
 [C41 BBC A]
@@ -30,7 +30,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C47 BBC B HD]
+[C47 BBC B]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000

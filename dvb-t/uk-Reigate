@@ -3,7 +3,7 @@
 # <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/RH2 9RN>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Reigate
-# date (yyyy-mm-dd)    : 2020-07-10
+# date (yyyy-mm-dd)    : 2023-02-10
 #
 #----------------------------------------------------------------------------------------------
 [C23 BBC A]
@@ -30,7 +30,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C30- BBC B HD]
+[C30- BBC B]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 545833000
 	BANDWIDTH_HZ = 8000000

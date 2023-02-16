@@ -3,7 +3,7 @@
 # <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/SA17 5UR>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Ferryside
-# date (yyyy-mm-dd)    : 2020-07-10
+# date (yyyy-mm-dd)    : 2023-02-10
 #
 #----------------------------------------------------------------------------------------------
 [C21 BBC A]
@@ -30,7 +30,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C24 BBC B HD]
+[C24 BBC B]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 498000000
 	BANDWIDTH_HZ = 8000000

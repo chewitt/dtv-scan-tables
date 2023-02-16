@@ -3,7 +3,7 @@
 # <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/GU28 9EA>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Midhurst
-# date (yyyy-mm-dd)    : 2020-07-10
+# date (yyyy-mm-dd)    : 2023-02-10
 #
 #----------------------------------------------------------------------------------------------
 [C48 BBC A]
@@ -30,7 +30,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C36 BBC B HD]
+[C36 BBC B]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000

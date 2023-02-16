@@ -3,7 +3,7 @@
 # <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/SY23 4QH>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Blaenplwyf
-# date (yyyy-mm-dd)    : 2020-07-10
+# date (yyyy-mm-dd)    : 2023-02-10
 #
 #----------------------------------------------------------------------------------------------
 [C27 BBC A]
@@ -30,7 +30,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C21+ BBC B HD]
+[C21+ BBC B]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 474167000
 	BANDWIDTH_HZ = 8000000

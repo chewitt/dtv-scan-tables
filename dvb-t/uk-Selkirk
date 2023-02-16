@@ -3,7 +3,7 @@
 # <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/TD7 4QN>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Selkirk
-# date (yyyy-mm-dd)    : 2020-07-10
+# date (yyyy-mm-dd)    : 2023-02-10
 #
 #----------------------------------------------------------------------------------------------
 [C32 BBC A]
@@ -30,7 +30,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C35 BBC B HD]
+[C35 BBC B]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 586000000
 	BANDWIDTH_HZ = 8000000

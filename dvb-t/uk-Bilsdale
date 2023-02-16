@@ -2,8 +2,8 @@
 # Auto-generated from:
 # <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/TS9 7JS>
 #----------------------------------------------------------------------------------------------
-# location and provider: UK, Bilsdale
-# date (yyyy-mm-dd)    : 2020-07-10
+# location and provider: UK, Bilsdale Tower
+# date (yyyy-mm-dd)    : 2023-02-16
 #
 #----------------------------------------------------------------------------------------------
 [C27 BBC A]
@@ -30,7 +30,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C21 BBC B HD]
+[C21 BBC B]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 474000000
 	BANDWIDTH_HZ = 8000000
@@ -74,31 +74,6 @@
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
 	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/32
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[C55 COM7 HD]
-	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 746000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/256
-	TRANSMISSION_MODE = 32K
-	GUARD_INTERVAL = 1/128
-	HIERARCHY = NONE
-	STREAM_ID = 0
-	INVERSION = AUTO
-
-[C30 L-MDB]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 546000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 3/4
-	CODE_RATE_LP = NONE
-	MODULATION = QPSK
 	TRANSMISSION_MODE = 8K
 	GUARD_INTERVAL = 1/32
 	HIERARCHY = NONE

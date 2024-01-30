@@ -1,7 +1,7 @@
 # Channel table for Anik G1 at 107.3°W
 # Source: http://www.lyngsat.com/Anik-G1.html
 
-[MinEdu Channel 1]
+[Tuku TV]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 12017000
 	POLARIZATION = VERTICAL
